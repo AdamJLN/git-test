@@ -1,1 +1,1 @@
-# git-test
+ssh-keygen -t ed25519
